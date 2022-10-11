@@ -1,1 +1,1 @@
-# React-rick22
+Dummy template
